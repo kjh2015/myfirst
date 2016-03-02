@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="SSHDEMO:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
+    <output-path>D:/apache-tomcat-7.0.65/webapps</output-path>
     <root id="archive" name="SSHDEMO.war">
       <element id="artifact" artifact-name="SSHDEMO:war exploded" />
     </root>
